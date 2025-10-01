@@ -1,0 +1,8 @@
+num_nodes: 1
+devices: 2
+sampling_rate: 64
+test_splits: [0.8, 0.2]
+participants: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29]
+number_of_test_participants: 4
+k: 5
+seed: 28

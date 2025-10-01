@@ -1,0 +1,6 @@
+defaults:
+  - training
+  - hparams: "0"
+  - _self_
+
+fold: 0
